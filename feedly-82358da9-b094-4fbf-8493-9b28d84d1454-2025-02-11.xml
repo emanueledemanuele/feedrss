@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Emanuele subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Youtube" title="Youtube">
+            <outline type="rss" text="ed1020" title="ed1020" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYCGveTpohFUclXmoHXGnRA" htmlUrl="https://www.youtube.com/channel/UCYCGveTpohFUclXmoHXGnRA"/>
+            <outline type="rss" text="Fandom" title="Fandom" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCezn4H528Al1OqmVzXbIElg" htmlUrl="https://www.youtube.com/channel/UCezn4H528Al1OqmVzXbIElg"/>
+            <outline type="rss" text="Mariano Pierantozzi" title="Mariano Pierantozzi" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1ByhlekolkM8Lox8dbP_rw" htmlUrl="https://www.youtube.com/channel/UC1ByhlekolkM8Lox8dbP_rw"/>
+            <outline type="rss" text="Xxstuvi" title="Xxstuvi" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqPILh36JsI3n1WC9OkoBKQ" htmlUrl="https://www.youtube.com/channel/UCqPILh36JsI3n1WC9OkoBKQ"/>
+            <outline type="rss" text="Sdrumox" title="Sdrumox" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIehhaaiKcSNyMDQ2609eFw" htmlUrl="https://www.youtube.com/channel/UCIehhaaiKcSNyMDQ2609eFw"/>
+            <outline type="rss" text="euronews (in Italiano)" title="euronews (in Italiano)" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1mX9vuLOYf8fhaXS_KcDRg" htmlUrl="https://www.youtube.com/channel/UC1mX9vuLOYf8fhaXS_KcDRg"/>
+            <outline type="rss" text="ilmentore" title="ilmentore" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiPU6weAyRhsywCYqz83tNQ" htmlUrl="https://www.youtube.com/channel/UCiPU6weAyRhsywCYqz83tNQ"/>
+            <outline type="rss" text="PLAYERINSIDE" title="PLAYERINSIDE" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxKrf2zGbarAs-3zu_OQ-tw" htmlUrl="https://www.youtube.com/channel/UCxKrf2zGbarAs-3zu_OQ-tw"/>
+            <outline type="rss" text="croix89" title="croix89" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcMlxsKnCgCB3a_1WMIGx9w" htmlUrl="https://www.youtube.com/channel/UCcMlxsKnCgCB3a_1WMIGx9w"/>
+            <outline type="rss" text="Geek Updates" title="Geek Updates" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWmLxAGxQlew2DJw9APLh4Q" htmlUrl="https://www.youtube.com/channel/UCWmLxAGxQlew2DJw9APLh4Q"/>
+        </outline>
+        <outline text="Sconti e omaggi" title="Sconti e omaggi">
+            <outline type="rss" text="Omaggiomania" title="Omaggiomania" xmlUrl="https://www.omaggiomania.com/feed/" htmlUrl="https://www.omaggiomania.com/"/>
+            <outline type="rss" text="scontOmaggio" title="scontOmaggio" xmlUrl="https://www.scontomaggio.com/feed/" htmlUrl="https://www.scontomaggio.com/"/>
+        </outline>
+        <outline text="Notizie" title="Notizie">
+            <outline type="rss" text="News | Euronews RSS" title="News | Euronews RSS" xmlUrl="http://feeds.feedburner.com/euronews/it/home/" htmlUrl="https://it.euronews.com"/>
+            <outline type="rss" text="ANSA Ultime Notizie" title="ANSA Ultime Notizie" xmlUrl="https://www.ansa.it/sito/notizie/topnews/topnews_rss.xml" htmlUrl="https://www.ansa.it/sito/index.html"/>
+            <outline type="rss" text="Wired Italia" title="Wired Italia" xmlUrl="https://www.wired.it/feed/rss" htmlUrl="https://www.wired.it"/>
+        </outline>
+    </body>
+</opml>
