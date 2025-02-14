@@ -26,6 +26,7 @@
             <outline type="rss" text="News | Euronews RSS" title="News | Euronews RSS" xmlUrl="http://feeds.feedburner.com/euronews/it/home/" htmlUrl="https://it.euronews.com"/>
             <outline type="rss" text="ANSA Ultime Notizie" title="ANSA Ultime Notizie" xmlUrl="https://www.ansa.it/sito/notizie/topnews/topnews_rss.xml" htmlUrl="https://www.ansa.it/sito/index.html"/>
             <outline type="rss" text="Wired Italia" title="Wired Italia" xmlUrl="https://www.wired.it/feed/rss" htmlUrl="https://www.wired.it"/>
+            <outline type="rss" text="Wired Italia" title="Tom's Hardware" xmlUrl="https://www.tomshw.it/feed"/>
         </outline>
     </body>
 </opml>
