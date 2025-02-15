@@ -26,11 +26,14 @@
             <outline type="rss" text="Omaggiomania" title="Omaggiomania" xmlUrl="https://www.omaggiomania.com/feed/" htmlUrl="https://www.omaggiomania.com/"/>
             <outline type="rss" text="scontOmaggio" title="scontOmaggio" xmlUrl="https://www.scontomaggio.com/feed/" htmlUrl="https://www.scontomaggio.com/"/>
         </outline>
-        <outline text="Notizie" title="Notizie">
+        <outline text="Notizie e social" title="Notizie">
             <outline type="rss" text="News | Euronews RSS" title="News | Euronews RSS" xmlUrl="http://feeds.feedburner.com/euronews/it/home/" htmlUrl="https://it.euronews.com"/>
             <outline type="rss" text="ANSA Ultime Notizie" title="ANSA Ultime Notizie" xmlUrl="https://www.ansa.it/sito/notizie/topnews/topnews_rss.xml" htmlUrl="https://www.ansa.it/sito/index.html"/>
             <outline type="rss" text="Wired Italia" title="Wired Italia" xmlUrl="https://www.wired.it/feed/rss" htmlUrl="https://www.wired.it"/>
             <outline type="rss" text="Wired Italia" title="Tom's Hardware" xmlUrl="https://www.tomshw.it/feed"/>
+            <outline type="rss" text="PewPiece (X)" title="PewPiece (X)" xmlUrl="https://nitter.privacydev.net/pewpiece/rss"/>
+            <outline type="rss" text="Sergio (redon) (X)" title="Sergio (redon) (X)" xmlUrl="https://nitter.privacydev.net/Mugiwara_23/rss"/>
+            <outline type="rss" text="Assassin's Creed (X)" title="Assassin's Creed (X)" xmlUrl="https://nitter.privacydev.net/assassinscreed/rss"/>
         </outline>
     </body>
 </opml>
