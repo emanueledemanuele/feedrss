@@ -21,10 +21,13 @@
             <outline type="rss" text="Multiplayer" title="Multiplayer" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpguAA4VKBftSU7kcgQl5Iw" htmlUrl="https://www.youtube.com/channel/UCpguAA4VKBftSU7kcgQl5Iw"/>
             <outline type="rss" text="Chroma" title="Chroma" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFEps8ehXb5tKGnIrzs7xvw" htmlUrl="https://www.youtube.com/channel/UCFEps8ehXb5tKGnIrzs7xvw"/>
             <outline type="rss" text="MarsVector" title="MarsVector" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwLPQVwJw22HiALoxCxvi8Q" htmlUrl="https://www.youtube.com/channel/UCwLPQVwJw22HiALoxCxvi8Q"/>
-        </outline>
+            <outline type="rss" text="Ubisoft" title="Ubisoft" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0KU8F9jJqSLS11LRXvFWmg" htmlUrl="https://www.youtube.com/channel/UC0KU8F9jJqSLS11LRXvFWmg"/>
+            <outline type="rss" text="Assassin's Creed IT" title="Assassin's Creed IT" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBs-f6TllBusGm2sUMrJJUw" htmlUrl="https://www.youtube.com/channel/UCBs-f6TllBusGm2sUMrJJUw"/>
+            </outline>
         <outline text="Sconti e omaggi" title="Sconti e omaggi">
             <outline type="rss" text="Omaggiomania" title="Omaggiomania" xmlUrl="https://www.omaggiomania.com/feed/" htmlUrl="https://www.omaggiomania.com/"/>
             <outline type="rss" text="scontOmaggio" title="scontOmaggio" xmlUrl="https://www.scontomaggio.com/feed/" htmlUrl="https://www.scontomaggio.com/"/>
+            <outline type="rss" text="dimmicosacerchi" title="dimmicosacerchi" xmlUrl="https://www.dimmicosacerchi.it/campioni-omaggio/feed" htmlUrl="https://www.dimmicosacerchi.it/campioni-omaggio"/>
         </outline>
         <outline text="Notizie e social" title="Notizie e social">
             <outline type="rss" text="News | Euronews RSS" title="News | Euronews RSS" xmlUrl="http://feeds.feedburner.com/euronews/it/home/" htmlUrl="https://it.euronews.com"/>
