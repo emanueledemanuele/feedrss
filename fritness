@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	<channel>
+		<title>fritness</title>
+		<description>guarda il mio fritness feed.</description>
+		<language>it-it</language>
+		<item>
+			<title>1. Stretching Total Body - Allungamento Muscolare Completo</title>
+		 <description><![CDATA[
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/HRcvZJqSTyU" 
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen></iframe>
+      ]]></description>
+		</item>
+		<item>
+			<title>2. Allenamento Completo Senza Pesi a Casa - Esercizi per Tonificare Tutto il Corpo</title>
+		 <description><![CDATA[
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/mSOuL3E6ZCU" 
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen></iframe>
+      ]]></description>
+		</item>
+		<item>
+			<title>3. Esercizi per le Braccia con Pesi - Bicipiti e Tricipiti a Casa</title>
+		 <description><![CDATA[
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/KfPdQ2gp8Hc" 
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen></iframe>
+      ]]></description>
+		</item>
+		<item>
+			<title>0.1. EXTRA: Esercizi per le Braccia Flaccide</title>
+		 <description><![CDATA[
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/r20YPT4jXRw" 
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen></iframe>
+      ]]></description>
+		</item>
+		<item>
+			<title>0.2 EXTRA: Esercizi per Dimagrire e Tonificare le Braccia Velocemente - Allenamento a Casa di 8 Minuti</title>
+		 <description><![CDATA[
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Z8CM75ioi-0" 
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen></iframe>
+      ]]></description>
+		</item>
+	</channel>
+</rss>
